@@ -3,7 +3,7 @@
 	font-weight: 700;
 }
 .daily-item{
-	background-color: #f5f5f5;
+	background-color: #D8D8D8;
 	border-radius: 15px;
 	height: 40px;
 	margin: 5px;
@@ -46,7 +46,7 @@
 	align-items: center;
 }
 .daily-details-grid-item label:first-child {
-	color: #757575;
+	color: #2C3333;
 }
 .daily-details-grid-item label:last-child {
 	color: #212121;
